@@ -39,10 +39,11 @@ conforme avanzo en cada fase.
 
 ## Hoja de ruta
 
-- [x] Script de auditoría SMB (validación de entrada, manejo de errores,
-      timeout y reintento, detección de hallazgos críticos) (parcialmente conseguido)
-- [x] Servidor Samba endurecido (SMB3 mínimo, firma y cifrado (conseguido, mejorare el .conf)
-      obligatorios, sin sesiones anónimas)
+- Script de auditoría SMB: Validación de entrada, manejo de errores, timeout y reintento, detección de hallazgos críticos (parcialmente conseguido)
+
+- Servidor Samba endurecido: SMB3 mínimo, firma y cifrado obligatorios, sin sesiones anónima (conseguido, mejorare el .conf)
+
+
 - [x] Análisis del protocolo NTLM con capturas propias (Wireshark): (conseguido)
       negociación, desafío, respuesta y verificación
 - [ ] Servidor Samba deliberadamente vulnerable (misconfiguraciones 
