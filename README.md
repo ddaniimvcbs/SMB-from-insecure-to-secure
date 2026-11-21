@@ -27,13 +27,12 @@ no de un ejercicio aislado.
 
 ## Estado actual
 
-🚧 En desarrollo activo. Este repositorio se actualiza de forma continua
-conforme avanzo en cada fase.
+En desarrollo activo. Este repositorio se actualizara a medida que pueda.
 
 ## Estructura del repositorio
 
 - `scripts/` — Herramientas en Python para auditoría SMB (enumeración,
-  validación de objetivos, generación de reportes).
+  validación de objetivos,etc..)
 - `docs/` — Documentación técnica: configuración de servidores, análisis
   de protocolo, misconfiguraciones y su explotación/corrección.
 
